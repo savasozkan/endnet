@@ -171,7 +171,7 @@ for i=1:H
     
     subplot(3,H,i)
     plot(Mp(:,i));
-    title(['Endmember #' num2str(i)])
+    title(['Ground Truth #' num2str(i)])
     
     subplot(3,H,i+H)
     plot(W1(L(i),:))
@@ -179,7 +179,7 @@ for i=1:H
     
     subplot(3,H,i+2*H)
     imshow(Pact);
-    title(['Endmember #' num2str(i)])
+    title(['Abundance Map #' num2str(i)])
 end
 
 end
