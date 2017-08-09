@@ -12,8 +12,8 @@ Please cite the following paper:
 
 [2] Savas Ozkan, Berk Kaya, Ersin Esen and Gozde Bozdagi Akar, EndNet: Sparse AutoEncoder Network for Endmember Extraction and Hyperspectral Unmixing, arXiv:1706.06905:
 ```
-@article{miech17loupe,
-  title={Learnable pooling with Context Gating for video classification},
+@article{ozkan17endnet,
+  title={EndNet: Sparse AutoEncoder Network for Endmember Extraction and Hyperspectral Unmixing},
   author={Ozkan, Savas and Kaya, Berk and Esen, Ersin and Akar, Gozde B},
   journal={arXiv:1708.01894},
   year={2017},
