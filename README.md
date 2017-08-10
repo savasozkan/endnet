@@ -10,7 +10,7 @@ Code will be released soon from this page. Stay tuned!...
 
 Please cite the following paper:
 
-[2] Savas Ozkan, Berk Kaya, Ersin Esen and Gozde Bozdagi Akar, EndNet: Sparse AutoEncoder Network for Endmember Extraction and Hyperspectral Unmixing, arXiv:1706.06905:
+[1] Savas Ozkan, Berk Kaya, Ersin Esen and Gozde Bozdagi Akar, EndNet: Sparse AutoEncoder Network for Endmember Extraction and Hyperspectral Unmixing, arXiv:1708.01894:
 ```
 @article{ozkan17endnet,
   title={EndNet: Sparse AutoEncoder Network for Endmember Extraction and Hyperspectral Unmixing},
