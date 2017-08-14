@@ -4,7 +4,7 @@
 * Extract datasets.zip to project directory.
 * Run demo.m to visualize results for a selected dataset.
 
-Code will be released soon from this page. Stay tuned!...
+Code will be released soon on this page. Stay tuned!...
 
 ## Our Results
 
