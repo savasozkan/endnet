@@ -35,15 +35,28 @@ Cuprite Dataset
 
 Pavia University Dataset
 
-<img src="rgb_data/paviau.png" height="100">
+<img src="rgb_data/paviau.png" height="200">
 
-<img src="abundance/paviau_fuse.png" height="100">
+<img src="abundance/paviau_fuse.png" height="200">
 
 Pavia Center Dataset
 
 <img src="rgb_data/paviac.png" height="100">
 
 <img src="abundance/paviac_fuse.png" height="400">
+
+Gulfport Dataset
+
+<img src="rgb_data/gulfport.png" height="100">
+
+<img src="abundance/gulfport_fuse.png" height="100">
+
+
+IEEE 2013 Challenge Dataset
+
+<img src="rgb_data/ieee.png" height="100">
+
+<img src="abundance/ieee_fuse.png" height="500">
 
 ## References
 
