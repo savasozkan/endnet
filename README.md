@@ -8,8 +8,8 @@ Code will be released soon from this page. Stay tuned!...
 
 ## Results
 
-![Alt text](rgb_data/samson.jpg "Samson RGB data" =250x)
-![Alt text](abundance/samson_fuse.png "Samson Abundance Map" =250x)
+![Alt text](rgb_data/samson.jpg =250x "Samson RGB data")
+![Alt text](abundance/samson_fuse.png =250x "Samson Abundance Map")
 
 ## References
 
