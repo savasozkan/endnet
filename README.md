@@ -30,7 +30,20 @@ Cuprite Dataset
 
 <img src="rgb_data/cuprite.jpg" height="100">
 
-<img src="abundance/cuprite_fuse.png" height="100">
+<img src="abundance/cuprite_fuse.png" height="200">
+
+
+Pavia University Dataset
+
+<img src="rgb_data/paviau.png" height="100">
+
+<img src="abundance/paviau_fuse.png" height="100">
+
+Pavia Center Dataset
+
+<img src="rgb_data/paviac.png" height="100">
+
+<img src="abundance/paviac_fuse.png" height="400">
 
 ## References
 
