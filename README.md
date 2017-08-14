@@ -8,9 +8,21 @@ Code will be released soon from this page. Stay tuned!...
 
 ## Results
 
+Samson Dataset
 <img src="rgb_data/samson.jpg" height="100">
 <img src="abundance/samson_fuse.png" height="100">
 
+Jasper Dataset
+<img src="rgb_data/jasper.jpg" height="100">
+<img src="abundance/jasper_fuse.png" height="100">
+
+Urban Dataset
+<img src="rgb_data/urban.jpg" height="100">
+<img src="abundance/urban_fuse.png" height="100">
+
+Cuprite Dataset
+<img src="rgb_data/curpite.jpg" height="100">
+<img src="abundance/cuprite_fuse.png" height="100">
 ## References
 
 Please cite the following paper:
