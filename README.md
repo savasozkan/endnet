@@ -47,9 +47,9 @@ Pavia Center Dataset
 
 Gulfport Dataset
 
-<img src="rgb_data/gulfport.png" height="100">
+<img src="rgb_data/gulfport.png" height="200">
 
-<img src="abundance/gulfport_fuse.png" height="100">
+<img src="abundance/gulfport_fuse.png" height="200">
 
 
 IEEE 2013 Challenge Dataset
@@ -57,6 +57,12 @@ IEEE 2013 Challenge Dataset
 <img src="rgb_data/ieee.png" height="100">
 
 <img src="abundance/ieee_fuse.png" height="500">
+
+DC Dataset
+
+<img src="rgb_data/dc.png" height="100">
+
+<img src="abundance/dc_fuse.png" height="500">
 
 ## References
 
