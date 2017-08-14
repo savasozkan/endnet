@@ -6,59 +6,57 @@
 
 Code will be released soon from this page. Stay tuned!...
 
-## Results
+## Our Results
 
-Samson Dataset
+Samson Data and Abundance Map Results
 
 <img src="rgb_data/samson.jpg" height="100">
 
 <img src="abundance/samson_fuse.png" height="100">
 
-Jasper Dataset
+Jasper Data and Abundance Map Results
 
 <img src="rgb_data/jasper.jpg" height="100">
 
 <img src="abundance/jasper_fuse.png" height="100">
 
-Urban Dataset
+Urban Data and Abundance Map Results
 
 <img src="rgb_data/urban.jpg" height="100">
 
 <img src="abundance/urban_fuse.png" height="100">
 
-Cuprite Dataset
+Cuprite Data and Abundance Map Results
 
 <img src="rgb_data/cuprite.jpg" height="100">
 
 <img src="abundance/cuprite_fuse.png" height="200">
 
-
-Pavia University Dataset
+Pavia University Data and Abundance Map Results
 
 <img src="rgb_data/paviau.png" height="200">
 
 <img src="abundance/paviau_fuse.png" height="200">
 
-Pavia Center Dataset
+Pavia Center Data and Abundance Map Results
 
 <img src="rgb_data/paviac.png" height="100">
 
 <img src="abundance/paviac_fuse.png" height="400">
 
-Gulfport Dataset
+Gulfport Data and Abundance Map Results
 
 <img src="rgb_data/gulfport.png" height="200">
 
 <img src="abundance/gulfport_fuse.png" height="200">
 
-
-IEEE 2013 Challenge Dataset
+IEEE 2013 Challenge Data and Abundance Map Results
 
 <img src="rgb_data/ieee.png" height="100">
 
 <img src="abundance/ieee_fuse.png" height="500">
 
-DC Dataset
+DC Data and Abundance Map Results
 
 <img src="rgb_data/dc.png" height="100">
 
