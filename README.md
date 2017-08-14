@@ -6,6 +6,11 @@
 
 Code will be released soon from this page. Stay tuned!...
 
+## Results
+
+![Alt text](rgb_data/samson.jpg "Samson RGB data")
+![Alt text](abundance/samson_fuse.png "Samson Abundance Map")
+
 ## References
 
 Please cite the following paper:
