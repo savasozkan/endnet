@@ -8,8 +8,8 @@ Code will be released soon from this page. Stay tuned!...
 
 ## Results
 
-<img src="rgb_data/samson.jpg" width="100">
-<img src="abundance/samson_fuse.png" width="100">
+<img src="rgb_data/samson.jpg" height="100">
+<img src="abundance/samson_fuse.png" height="100">
 
 ## References
 
