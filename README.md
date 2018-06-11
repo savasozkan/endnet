@@ -66,11 +66,11 @@ DC Data and Abundance Map Results
 
 Please cite the following paper:
 
-[1] Savas Ozkan, Berk Kaya, Ersin Esen and Gozde Bozdagi Akar, EndNet: Sparse AutoEncoder Network for Endmember Extraction and Hyperspectral Unmixing, arXiv:1708.01894:
+[1] Savas Ozkan, Berk Kaya and Gozde Bozdagi Akar, EndNet: Sparse AutoEncoder Network for Endmember Extraction and Hyperspectral Unmixing, arXiv:1708.01894:
 ```
 @article{ozkan17endnet,
   title={EndNet: Sparse AutoEncoder Network for Endmember Extraction and Hyperspectral Unmixing},
-  author={Ozkan, Savas and Kaya, Berk and Esen, Ersin and Akar, Gozde B},
+  author={Ozkan, Savas and Kaya, Berk and Akar, Gozde B},
   journal={arXiv:1708.01894},
   year={2017},
 }
