@@ -66,12 +66,25 @@ DC Data and Abundance Map Results
 
 Please cite the following paper:
 
-[1] Savas Ozkan, Berk Kaya and Gozde Bozdagi Akar, EndNet: Sparse AutoEncoder Network for Endmember Extraction and Hyperspectral Unmixing, arXiv:1708.01894:
+[1] Savas Ozkan, Berk Kaya and Gozde Bozdagi Akar, EndNet: Sparse AutoEncoder Network for Endmember Extraction and Hyperspectral Unmixing, IEEE Transactions on Geoscience and Remote Sensing, 2018:
 ```
-@article{ozkan17endnet,
-  title={EndNet: Sparse AutoEncoder Network for Endmember Extraction and Hyperspectral Unmixing},
-  author={Ozkan, Savas and Kaya, Berk and Akar, Gozde B},
-  journal={arXiv:1708.01894},
-  year={2017},
+@article{ozkan2018endnet,
+  title={Endnet: Sparse autoencoder network for endmember extraction and hyperspectral unmixing},
+  author={Ozkan, Savas and Kaya, Berk and Akar, Gozde Bozdagi},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={57},
+  number={1},
+  pages={482--496},
+  year={2018},
+  publisher={IEEE}
+}
+```
+[2] Savas Ozkan and Gozde Bozdagi Akar, Spectral Unmixing With Multinomial Mixture Kernel and Wasserstein Generative Adversarial Loss, Advances in Neural Information Processing Systems Workshops, 2020:
+```
+@article{ozkan2020spectral,
+  title={Spectral Unmixing With Multinomial Mixture Kernel and Wasserstein Generative Adversarial Loss},
+  author={Ozkan, Savas and Akar, Gozde Bozdagi},
+  journal={arXiv preprint arXiv:2012.06859},
+  year={2020}
 }
 ```
